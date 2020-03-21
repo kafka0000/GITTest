@@ -1,4 +1,4 @@
 # GITTest
 
-Master 目前处在master分支：从Dev分支合并内容进来
+Master 目前处在master分支：测试成功 开始测试Rebase功能
 
